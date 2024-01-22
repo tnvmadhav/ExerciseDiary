@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/tnvmadhav/ExerciseDiary/internal/models"
 )
 
 // BulkAddSets - add slice

@@ -3,7 +3,7 @@ package web
 import (
 	"embed"
 
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/tnvmadhav/ExerciseDiary/internal/models"
 )
 
 var (

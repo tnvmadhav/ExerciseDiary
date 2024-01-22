@@ -3,18 +3,20 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/e8f67994120fc7936aeb/maintainability)](https://codeclimate.com/github/aceberg/ExerciseDiary/maintainability)
 ![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/aceberg/exercisediary)
 
-<h1><a href="https://github.com/aceberg/exercisediary">
+> This is a fork off of https://github.com/aceberg/exercisediary. Support the original repository.
+
+<h1><a href="https://github.com/tnvmadhav/ExerciseDiary">
     <img src="https://raw.githubusercontent.com/aceberg/exercisediary/main/assets/logo.png" width="35" />
 </a>Exercise Diary</h1>
 
 Workout diary with GitHub-style year visualization
 
-- [Quick start](https://github.com/aceberg/exercisediary#quick-start)
-- [Config](https://github.com/aceberg/exercisediary#config)
-- [Options](https://github.com/aceberg/exercisediary#options)
-- [Local network only](https://github.com/aceberg/exercisediary#local-network-only)
-- [Roadmap](https://github.com/aceberg/ExerciseDiary/blob/main/docs/ROADMAP.md)
-- [Thanks](https://github.com/aceberg/exercisediary#thanks)
+- [Quick start](https://github.com/tnvmadhav/ExerciseDiary#quick-start)
+- [Config](https://github.com/tnvmadhav/ExerciseDiary#config)
+- [Options](https://github.com/tnvmadhav/ExerciseDiary#options)
+- [Local network only](https://github.com/tnvmadhav/ExerciseDiary#local-network-only)
+- [Roadmap](https://github.com/tnvmadhav/ExerciseDiary/blob/main/docs/ROADMAP.md)
+- [Thanks](https://github.com/tnvmadhav/ExerciseDiary#thanks)
 
 
 ![Screenshot](https://raw.githubusercontent.com/aceberg/ExerciseDiary/main/assets/Screenshot%202023-12-25%20at%2023-19-08%20Exercise%20Diary.png)

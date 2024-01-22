@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/tnvmadhav/ExerciseDiary/internal/models"
 )
 
 // Create - create table if not exists

@@ -7,9 +7,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/aceberg/ExerciseDiary/internal/check"
-	"github.com/aceberg/ExerciseDiary/internal/conf"
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/tnvmadhav/ExerciseDiary/internal/check"
+	"github.com/tnvmadhav/ExerciseDiary/internal/conf"
+	"github.com/tnvmadhav/ExerciseDiary/internal/models"
 )
 
 func configHandler(c *gin.Context) {

@@ -14,7 +14,7 @@ func Path(path string) bool {
 
 		dir := filepath.Dir(path)
 
-		err = os.MkdirAll(dir, os.ModePerm)
+		err = os.MkdirAll(dir, 0777)
 		IfError(err)
 
 		_, err = os.Create(path)

@@ -7,8 +7,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/aceberg/ExerciseDiary/internal/db"
-	"github.com/aceberg/ExerciseDiary/internal/models"
+	"github.com/tnvmadhav/ExerciseDiary/internal/db"
+	"github.com/tnvmadhav/ExerciseDiary/internal/models"
 )
 
 func setHandler(c *gin.Context) {

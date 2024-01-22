@@ -7,9 +7,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/aceberg/ExerciseDiary/internal/check"
-	"github.com/aceberg/ExerciseDiary/internal/conf"
-	"github.com/aceberg/ExerciseDiary/internal/db"
+	"github.com/tnvmadhav/ExerciseDiary/internal/check"
+	"github.com/tnvmadhav/ExerciseDiary/internal/conf"
+	"github.com/tnvmadhav/ExerciseDiary/internal/db"
 )
 
 // Gui - start web server
